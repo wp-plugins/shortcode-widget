@@ -19,6 +19,10 @@ Adds a text-like widget that allows you to write shortcode in it. (Just whats mi
 1. Activate the plugin.
 1. You are now ready to use the Shortcode Widget from the Widgets section.
 
+== Short Codes ==
+
+This will work with any shortcode of any plugin.
+
 == Changelog ==
 0.1	Added the shortcode widget
 0.2	Added translation support
